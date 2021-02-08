@@ -1,0 +1,47 @@
+# Dinâmica
+Professor Paulo Victor <br>
+E-mail: paulo.gomes@cefet-rj.br <br>
+CEFET-RJ Campus Angra dos Reis Sala 6E
+
+
+
+### Ementa:
+1. [Introdução à Dinâmica de Sistemas Mecânicos](Din1.ipynb)
+2. [Cinemática da Partícula](Din2.ipynb)
+3. [Dinâmica da Partícula](Din3.ipynb)
+4. [Cinemática do Corpo Rígido](Din4.ipynb)
+5. [Dinâmica do Corpo Rígido](Din5.ipynb)
+
+
+
+### Objetivos gerais:
+* Capacitar o aluno a determinar de forma simples e lógica, através de métodos adequados, o comportamento dos componentes e dos sistemas mecânicos que envolvam força e movimento.
+
+
+
+### Bibliografia Básica:
+* SANTOS, ILMAR F. Dinâmica de Sistemas Mecânicos: Modelagem, Simulação, Visualização, Verificação.  1ª Ed. São Paulo: Ed. Makron Books, 2001.
+* BEER, FERDINAND P. Mecânica Vetorial para Engenheiros: Cinemática e Dinâmica. Vol. 2. 9ª Ed. São Paulo: Ed. McGraw-Hill Bookman, 2012. 
+
+
+
+### Bibliografia Complementar:
+* TENENBAUM, ROBERTO A. Dinâmica Aplicada. 3ª Ed. Ed. Manole, 2006. 
+* NORTON, ROBERT L. Cinemática e Dinâmica dos Mecanismos. AMGH Editora, 2010. 
+
+
+
+### Avaliação:
+* Provas
+
+
+
+### Datas Importantes:
+ * Período de trancamento
+ > 01/02 a 20/02 \
+ >01/03 a 27/05 
+  
+ * Avaliações:
+ >P1: 26/03 \
+ >P2: 14/05 \
+ >P3: 28/05 
