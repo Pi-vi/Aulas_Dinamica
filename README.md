@@ -1,47 +1,41 @@
-# Dinâmica
+# Mecanismos
 Professor Paulo Victor <br>
-E-mail: paulo.gomes@cefet-rj.br <br>
-CEFET-RJ Campus Angra dos Reis Sala 6E
+e-mail: paulo.gomes@cefet-rj.br <br>
+CEFET/RJ Campus Angra dos Reis - Sala 6E
 
+## Ementa: 
+1. [Introdução ao estudo dos mecanismos](Mecs1.ipynb)
+2. [Fundamentos da cinemática e Mecanismos Articulados](Mecs2.ipynb)
+3. [Síntese gráfica de mecanismos](Mecs3.ipynb)
+4. [Análise de posição](Mecs4.ipynb)
+5. [Síntese analítica de mecanismos](Mecs5.ipynb)
+6. [Análise de velocidade](Mecs6.ipynb)
+7. [Análise de aceleração](Mecs7.ipynb)
+8. [Cames](Mecs8.ipynb)
+9. [Transmissão por engrenagens](Mecs9.ipynb)
 
+## Objetivos
+* Iniciação e capacitação dos alunos em conhecimentos nas principais áreas relacionadas a Mecanismos e Dinâmica das Máquinas.
 
-### Ementa:
-1. [Introdução à Dinâmica de Sistemas Mecânicos](Din1.ipynb)
-2. [Cinemática da Partícula](Din2.ipynb)
-3. [Dinâmica da Partícula](Din3.ipynb)
-4. [Cinemática do Corpo Rígido](Din4.ipynb)
-5. [Dinâmica do Corpo Rígido](Din5.ipynb)
+## Bibliografia Recomendada:
+* NORTON, R. Cinemática e dinâmica dos mecanismos. Porto Alegre: Ed. AMGH, 2010.
+* MABIE, H. Mecanismos e Dinâmica das Máquinas. Rio de Janeiro: Livro Técnico S.A.
 
+## Links Recomendados: 
+* [Python/Anaconda](https://www.anaconda.com/)
+* [How Stuff Works](https://www.howstuffworks.com/)
+* [Canal Youtube](https://www.youtube.com/user/thang010146)
+* [Canal Youtube](https://www.youtube.com/user/mekanizmalar)
 
+## Forma de Avaliação:
+* P1 -> Trabalho
+* P2 -> Trabalho
+* P3 -> Prova
 
-### Objetivos gerais:
-* Capacitar o aluno a determinar de forma simples e lógica, através de métodos adequados, o comportamento dos componentes e dos sistemas mecânicos que envolvam força e movimento.
-
-
-
-### Bibliografia Básica:
-* SANTOS, ILMAR F. Dinâmica de Sistemas Mecânicos: Modelagem, Simulação, Visualização, Verificação.  1ª Ed. São Paulo: Ed. Makron Books, 2001.
-* BEER, FERDINAND P. Mecânica Vetorial para Engenheiros: Cinemática e Dinâmica. Vol. 2. 9ª Ed. São Paulo: Ed. McGraw-Hill Bookman, 2012. 
-
-
-
-### Bibliografia Complementar:
-* TENENBAUM, ROBERTO A. Dinâmica Aplicada. 3ª Ed. Ed. Manole, 2006. 
-* NORTON, ROBERT L. Cinemática e Dinâmica dos Mecanismos. AMGH Editora, 2010. 
-
-
-
-### Avaliação:
-* Provas
-
-
-
-### Datas Importantes:
- * Período de trancamento
- > 01/02 a 20/02 \
- >01/03 a 27/05 
-  
- * Avaliações:
- >P1: 26/03 \
- >P2: 14/05 \
- >P3: 28/05 
+## Datas Importantes
+* Período de Trancamento:
+> 21/07 até 01/11
+* Avaliações:
+>P1: 10/09  
+>P2: 15/10  
+>P3: 05/11 
