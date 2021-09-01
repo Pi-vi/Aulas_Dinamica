@@ -103,16 +103,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1273152"
-     inkscape:cx="268.37381"
-     inkscape:cy="203.42676"
+     inkscape:zoom="4.2546304"
+     inkscape:cx="231.12286"
+     inkscape:cy="112.87291"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="false"
      inkscape:snap-smooth-nodes="true"
@@ -139,7 +139,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -333,8 +333,75 @@
          id="tspan2005"
          x="98.265465"
          y="111.78481"
-         style="stroke-width:0.0874845">O<tspan
-   style="font-size:2.12296px;baseline-shift:sub;stroke-width:0.0874845"
-   id="tspan2009">B</tspan></tspan></text>
+         style="stroke-width:0.0874845">B*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.03094px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107971"
+       x="78.928291"
+       y="117.04057"
+       id="text930"><tspan
+         sodipodi:role="line"
+         id="tspan928"
+         x="78.928291"
+         y="117.04057"
+         style="stroke-width:0.107971">p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.541px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0412768"
+       x="81.827332"
+       y="114.85659"
+       id="text934"><tspan
+         sodipodi:role="line"
+         id="tspan932"
+         x="81.827332"
+         y="114.85659"
+         style="stroke-width:0.0412768">B*/O</tspan></text>
+    <g
+       id="g958">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 78.847202,114.06958 c 0.0389,-0.008 1.70238,0 1.70238,0"
+         id="path938" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.549582,114.06958 -0.008,-0.38975 0.83,0.38159 -0.82128,0.33038 z"
+         id="path944"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.03094px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107971"
+       x="106.7192"
+       y="107.01474"
+       id="text954"><tspan
+         sodipodi:role="line"
+         id="tspan952"
+         x="106.7192"
+         y="107.01474"
+         style="stroke-width:0.107971">p</tspan></text>
+    <g
+       id="g964"
+       transform="translate(27.611094,-10.012131)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 78.847202,114.06958 c 0.0389,-0.008 1.70238,0 1.70238,0"
+         id="path960" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.549582,114.06958 -0.008,-0.38975 0.83,0.38159 -0.82128,0.33038 z"
+         id="path962"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.541px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0412768"
+       x="109.25186"
+       y="104.68899"
+       id="text968"><tspan
+         sodipodi:role="line"
+         x="109.25186"
+         y="104.68899"
+         style="stroke-width:0.0412768"
+         id="tspan970">P/B*</tspan></text>
   </g>
 </svg>
