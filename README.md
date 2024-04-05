@@ -1,7 +1,7 @@
 # Dinâmica
 Professor Paulo Victor <br>
 E-mail: paulo.gomes@cefet-rj.br <br>
-CEFET-RJ Campus Angra dos Reis Sala 6E
+CEFET-RJ Campus Angra dos Reis Sala 17C
 
 
 ### Ementa:
@@ -12,7 +12,7 @@ CEFET-RJ Campus Angra dos Reis Sala 6E
 5. [Dinâmica do Sistema de Partículas](Din5.ipynb)
 6. [Propriedades de Inércia de Corpos Rígidos](Din6.ipynb)
 7. [Dinâmica do Corpo Rígido](Din7.ipynb)
-8. [Fundamentos de Mecânica Analítica](Din8.ipynb)
+8. [Trabalho, Energia, Potência e Fundamentos de Mecânica Analítica](Din8.ipynb)
 
 ### Objetivos gerais:
 * Capacitar o aluno a determinar de forma simples e lógica, através de métodos adequados, o comportamento dos componentes e dos sistemas mecânicos que envolvam força e movimento.
@@ -33,12 +33,12 @@ CEFET-RJ Campus Angra dos Reis Sala 6E
 
 ### Datas Importantes:
  * Período de trancamento
- > até 29/04
+ > 26/02/24 a 08/03/24
 
 
  * Avaliações:
- >P1: 07/06 <br>
- >P2: 02/08 <br>
- >P3: 23/08
+ >P1: 17/04/24 <br>
+ >P2: 10/06/24 <br>
+ >P3: 19/06/24
 
 [Avançar para o próximo capítulo](Din1.ipynb)
