@@ -26,19 +26,19 @@ CEFET-RJ Campus Angra dos Reis Sala 17C
 * NORTON, ROBERT L. Cinemática e Dinâmica dos Mecanismos. AMGH Editora, 2010.
 
 ### Avaliação:
-1. Seminário e Prova 1
-2. Trabalho e Prova 2
+1. Seminário (30%) e Prova 1 (70%)
+2. Trabalho (50%) e Prova 2 (50%)
 3. Prova Final (em caso de 3.0 $\leq$ Média $<$ 7.0
 
 
 ### Datas Importantes:
  * Período de trancamento
- > 26/02/24 a 08/03/24
+
 
 
  * Avaliações:
- >P1: 17/04/24 <br>
- >P2: 10/06/24 <br>
- >P3: 19/06/24
+ >P1: <br>
+ >P2:  <br>
+ >P3:  <br>
 
 [Avançar para o próximo capítulo](Din1.ipynb)
