@@ -10,35 +10,35 @@ CEFET-RJ Campus Angra dos Reis Sala 17C
 3. [Cinemática do Corpo Rígido](Din3.ipynb)
 4. [Dinâmica da Partícula](Din4.ipynb)
 5. [Dinâmica do Sistema de Partículas](Din5.ipynb)
-6. [Propriedades de Inércia de Corpos Rígidos](Din6.ipynb)
-7. [Dinâmica do Corpo Rígido](Din7.ipynb)
-8. [Trabalho, Energia, Potência e Fundamentos de Mecânica Analítica](Din8.ipynb)
+6. [Dinâmica do Corpo Rígido](Din6.ipynb)
+7. [Trabalho, Energia, Potência e Fundamentos de Mecânica Analítica](Din7.ipynb)
 
 ### Objetivos gerais:
 * Capacitar o aluno a determinar de forma simples e lógica, através de métodos adequados, o comportamento dos componentes e dos sistemas mecânicos que envolvam força e movimento.
 
 ### Bibliografia Básica:
 * SANTOS, ILMAR F. Dinâmica de Sistemas Mecânicos: Modelagem, Simulação, Visualização, Verificação.  1ª Ed. São Paulo: Ed. Makron Books, 2001.
-* BEER, FERDINAND P. Mecânica Vetorial para Engenheiros: Cinemática e Dinâmica. Vol. 2. 9ª Ed. São Paulo: Ed. McGraw-Hill Bookman, 2012.
+* TENENBAUM, ROBERTO A. Dinâmica Aplicada. 3ª Ed. Ed. Manole, 2006.
+* RADE, Domingos. Cinemática e Dinâmica para Engenharia. Elsevier Brasil, 2018.
 
 ### Bibliografia Complementar:
-* TENENBAUM, ROBERTO A. Dinâmica Aplicada. 3ª Ed. Ed. Manole, 2006. 
+* KANE, Thomas R.; LEVINSON, David A. Dynamics, theory and applications. McGraw Hill, 1985.
 * NORTON, ROBERT L. Cinemática e Dinâmica dos Mecanismos. AMGH Editora, 2010.
 
 ### Avaliação:
-1. Seminário (30%) e Prova 1 (70%)
-2. Trabalho (50%) e Prova 2 (50%)
-3. Prova Final (em caso de 3.0 $\leq$ Média $<$ 7.0
+1. Prova 1 (100%)
+2. Prova 2 (100%)
+3. Prova Final (em caso de 3.0 $\leq$ Média $<$ 7.0)
 
 
-### Datas Importantes:
- * Período de trancamento
+## Datas Importantes:
 
+Avaliações:
 
+ * P1: 27/04/2026
+ * P2: 22/06/2026
+ * P3: 29/06/2026
+ * PF: 04/07/2026
 
- * Avaliações:
- >P1: <br>
- >P2:  <br>
- >P3:  <br>
 
 [Avançar para o próximo capítulo](Din1.ipynb)
