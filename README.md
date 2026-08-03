@@ -35,10 +35,10 @@ CEFET-RJ Campus Angra dos Reis Sala 17C
 
 Avaliações:
 
- * P1: 27/04/2026
- * P2: 22/06/2026
- * P3: 29/06/2026
- * PF: 04/07/2026
+ * P1: 28/09/2026
+ * P2: 30/11/2026
+ * P3: 04/12/2026
+ * PF: 14/12/2026
 
 
 [Avançar para o próximo capítulo](Din1.ipynb)
